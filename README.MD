@@ -1,0 +1,2 @@
+# Scratchtools
+[Download Primitive Cloud Server (credits to SheepTester) (windows)](https://raw.githubusercontent.com/usernames122/_/5ebac9ebc8e26ab646291bfd760ff43b34cfd0c8/primitive-cloud-server-win.exe)
